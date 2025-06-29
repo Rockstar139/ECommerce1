@@ -1,4 +1,4 @@
 # ECommerce1
-Ecommerce1 git repository.
+Ecommerce first git repository demo.
 <br>
 Author - Praveen Kumar
